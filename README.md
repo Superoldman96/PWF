@@ -46,6 +46,8 @@ If you want expert-led analysis training, use the Analyst 1 Training Track link 
     - Evidence files and working data (~30 GB additional)
 
 ## Investigation Roadmap
+The image below illustrates the Practical Windows Forensics end-to-end workflow.
+
 ![Investigation Roadmap](Investigation-roadmap.png)
 
 ## Free Cheat Sheet (Quick Access)
@@ -133,7 +135,7 @@ Use this guide:
 - https://bluecapesecurity.com/build-your-forensic-workstation/
 
 Recommended baseline:
-- Windows Server 2019 VM
+- Windows Server 2019/2022 VM
 - VirtualBox VM sizing: at least 4 GB RAM and 100 GB dynamically allocated disk
 - Configure shared folders/clipboard and connect your evidence folder
 - Install core DFIR tooling (for example):
